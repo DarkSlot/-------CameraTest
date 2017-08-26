@@ -1,0 +1,1 @@
+其实只有Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset和Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap有用了，直接建个第三人称工程把这俩文件替换了就行~
